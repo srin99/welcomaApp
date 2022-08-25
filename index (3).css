@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.button {
+  background-color: #ffffff;
+  color: #1e293b;
+  font-family: 'Roboto';
+  padding: 5px;
+}
+
+.heading {
+  color: #f0bb03;
+  font-family: 'Roboto';
+}
+
+.bg-container {
+  background-color: #1e293b;
+}
+
+.paragraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
